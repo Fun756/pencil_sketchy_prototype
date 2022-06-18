@@ -1,6 +1,6 @@
 # pencil_sketchy_prototype
 The old prototype of my university project that generate the sketch image based on the photo using Image Processing written in Python.
-The proformance is not very effective and may experience bugs in the prototype.
+The performance is not very effective and may experience bugs in the prototype.
 
 
 # Software and Library Requirements
